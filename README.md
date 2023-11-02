@@ -6,13 +6,13 @@
 
 > forked by [rustling](https://github.com/rust-lang/rustlings)
 
-Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
+Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust
+code. This includes reading and responding to compiler messages!
 
-**This repo will describe specific solutions for rustlings exercises**.As for the specific installation process, please refer to [rustling](https://github.com/rust-lang/rustlings), which will not be described here.
+**This repo will describe specific solutions for rustlings exercises**.As for the specific installation process, please
+refer to [rustling](https://github.com/rust-lang/rustlings), which will not be described here.
 
 ## Solutions
-
-### Topic wise solutions:
 
 - [intro1](exercises/intro/intro1.rs)
 - [intro2](exercises/intro/intro2.rs)
